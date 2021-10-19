@@ -1,0 +1,98 @@
+﻿@model PizzaApplication.Models.SummaryDTO
+
+@{
+    ViewData["Title"] = "summary";
+    var index = 0;
+}
+
+<h1>summary</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.OrderId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.OrderId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Total)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Total)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DeliveryCharge)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DeliveryCharge)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+    </dl>
+
+    @foreach (var item in Model.PizzaDic)
+    {
+        <hr />
+        <h4>Pizza:</h4>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(p => item.Value.Name)
+            <dd class="col-sm-10">
+                @Html.DisplayFor(p => item.Value.Name)
+            </dd>
+        </dt>
+       
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(p => item.Value.Price)
+            <dd class="col-sm-10">
+                @Html.DisplayFor(p => item.Value.Price)
+            </dd>
+        </dt>
+       
+        @if (Model.ItemIds.ContainsValue(item.Key))
+        {
+            index = Model.ItemIds.FirstOrDefault(x => x.Value == item.Key).Key;
+
+            if (index != 0)
+            {
+
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(t => Model.ToppingDic[index].Name)
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(t => Model.ToppingDic[index].Name)
+                    </dd>
+                </dt>
+                
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(t => Model.ToppingDic[index].Price)
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(t => Model.ToppingDic[index].Price)
+                    </dd>
+                </dt>
+               
+
+
+            }
+        }
+
+
+    }
+
+
+</div>
+        <div>
+            @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+            <a asp-action="Index">Back to List</a>
+        </div>

@@ -1,0 +1,183 @@
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\ToppingsAPI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\ToppingsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\ToppingsAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\ToppingsAPI.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\ToppingsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\ToppingsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\ToppingsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\ToppingsAPI.exe
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\ToppingsAPI.deps.json
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\ToppingsAPI.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\ToppingsAPI.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\ToppingsAPI.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\ref\ToppingsAPI.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\ToppingsAPI.pdb
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\staticwebassets\ToppingsAPI.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\staticwebassets\ToppingsAPI.StaticWebAssets.xml
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\scopedcss\bundle\ToppingsAPI.styles.css
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\ToppingsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\ToppingsAPI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\ToppingsAPI.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\ref\ToppingsAPI.dll
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\ToppingsAPI.pdb
+C:\Users\Administrator\Desktop\Pizza Application\ToppingsAPI\obj\Debug\net5.0\ToppingsAPI.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\ToppingsAPI.exe
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\ToppingsAPI.deps.json
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\ToppingsAPI.runtimeconfig.json
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\ToppingsAPI.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\ToppingsAPI.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\ref\ToppingsAPI.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\ToppingsAPI.pdb
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\staticwebassets\ToppingsAPI.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\staticwebassets\ToppingsAPI.StaticWebAssets.xml
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\scopedcss\bundle\ToppingsAPI.styles.css
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ref\ToppingsAPI.dll
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.pdb
+C:\Users\Administrator\Desktop\kaniniday1\dbms\day7\WebAPI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.genruntimeconfig.cache
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\appsettings.json
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\ToppingsAPI.exe
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\ToppingsAPI.deps.json
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\ToppingsAPI.runtimeconfig.json
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\ToppingsAPI.runtimeconfig.dev.json
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\ToppingsAPI.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\ref\ToppingsAPI.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\ToppingsAPI.pdb
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Humanizer.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.csproj.AssemblyReference.cache
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.AssemblyInfoInputs.cache
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.AssemblyInfo.cs
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.csproj.CoreCompileInputs.cache
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\staticwebassets\ToppingsAPI.StaticWebAssets.Manifest.cache
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\staticwebassets\ToppingsAPI.StaticWebAssets.xml
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\scopedcss\bundle\ToppingsAPI.styles.css
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.RazorTargetAssemblyInfo.cache
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.csproj.CopyComplete
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ref\ToppingsAPI.dll
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.pdb
+C:\KANINI\PizzaApplicationProject\ToppingAPI\obj\Debug\net5.0\ToppingsAPI.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿@model PizzaApplication.Models.ToppingDTO
+
+@{
+    ViewData["Title"] = "Select_This";
+}
+
+<div class="card">
+    <div class="card-header">
+        <P style="color: darkolivegreen"> Topping Selected </P>
+    </div>
+    <div class="card-body">
+        <div class="btn btn-dark">
+            @Html.ActionLink("Go to Checkout", "Checkout")
+        </div>
+        <hr />
+        <div class="btn btn-dark">
+            @Html.ActionLink("Add Another Pizza", "AddPizza")
+        </div>
+        <hr />
+        <div class="btn btn-dark">
+            @Html.ActionLink("Add Another Toppings", "AddTopping")
+        </div>
+
+    </div>
+</div>

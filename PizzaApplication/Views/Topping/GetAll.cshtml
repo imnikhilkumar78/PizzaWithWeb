@@ -1,0 +1,33 @@
+﻿@model IEnumerable<PizzaApplication.Models.ToppingDTO>
+
+<div class="card-columns">
+
+    @foreach (var item in Model)
+    {
+        <div class="card text-center" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title"> @Html.DisplayFor(modelItem => item.Name)</h5>
+
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">Price : @Html.DisplayFor(modelItem => item.Name)</li>
+
+                <li class="list-group-item">Speciality :  @Html.DisplayFor(modelItem => item.Price)</li>
+
+                <li class="list-group-item">
+                    <div class="btn btn-outline-danger">
+
+                        @Html.ActionLink("Add Topping", "Select_This", new { id = item.ToppingId }, new { @style = "color: #540615 ; text-decoration: none ;" })
+
+                    </div>
+                </li>
+            </ul>
+
+            @*<td>
+                    <div class="btn btn-dark">
+                        @Html.ActionLink("Select_This", "Select_This", new { id = item.PizzaId })
+                    </div>
+                </td>
+            *@
+        </div>      }
+</div>
